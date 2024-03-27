@@ -1,0 +1,24 @@
+{
+"Products": [
+[{"id":1,"nama":"Gray duiker","category":"Crimson"},
+{"id":2,"nama":"Lion, african","category":"Green"},
+{"id":3,"nama":"Wolf spider","category":"Goldenrod"},
+{"id":4,"nama":"Raven, white-necked","category":"Red"},
+{"id":5,"nama":"Alligator, american","category":"Green"},
+{"id":6,"nama":"Crab (unidentified)","category":"Crimson"},
+{"id":7,"nama":"Barasingha deer","category":"Orange"},
+{"id":8,"nama":"Weaver, sociable","category":"Red"},
+{"id":9,"nama":"Gull, dusky","category":"Crimson"},
+{"id":10,"nama":"Goose, cape barren","category":"Purple"},
+{"id":11,"nama":"Shelduck, common","category":"Violet"},
+{"id":12,"nama":"Owl, burrowing","category":"Aquamarine"},
+{"id":13,"nama":"Ostrich","category":"Aquamarine"},
+{"id":14,"nama":"Shelduck, european","category":"Red"},
+{"id":15,"nama":"Gazelle, grant's","category":"Mauv"},
+{"id":16,"nama":"Kite, black","category":"Pink"},
+{"id":17,"nama":"Nelson ground squirrel","category":"Fuscia"},
+{"id":18,"nama":"Goose, greylag","category":"Fuscia"},
+{"id":19,"nama":"Mongoose, small indian","category":"Turquoise"},
+{"id":20,"nama":"Ring dove","category":"Teal"}]
+]
+}
